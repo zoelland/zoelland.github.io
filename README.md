@@ -1,3 +1,3 @@
 # zoelland.github.io
 
-Hello World
+exploration to github and html
