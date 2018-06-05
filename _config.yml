@@ -1,9 +1,9 @@
 # main text of home
 name: Hao Liu
-bio: A Civil Engineering student who wants to learn coding
+bio: New to Coding
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Look what I've learned!
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://zoelland.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -42,7 +42,7 @@ twitter: mytwitter
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: https://github.com/zoelland
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -50,21 +50,21 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: zluxyoe@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    HaoLiu:
+        name: Hao Liu
+        bio: nothing for now
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
+        twitter: mytwitter
+    FranklinLiu:
+        name: Franklin Liu
+        bio: An Engineer
         external-image: false
         picture: assets/images/james.jpg
-        twitter: jamesfoster
+        twitter: 
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
