@@ -13,11 +13,10 @@ author: Hao Liu
 description: First post on my gitpage
 ---
 
-## Summary:
 
 This is my first post on my gitpage, haven't decide what to do with this blog yet.
 
-But I got plenty of time this summer XD
+And I got plenty of time this summer.
 
 <div class="side-by-side">
     <div class="toleft">
