@@ -19,6 +19,13 @@ This is my first post on my gitpage, haven't decide what to do with this blog ye
 
 But I got plenty of time this summer XD
 
-<img src="baby10.jpg"
-     alt=""
-     style="float: left; margin-right: 10px;" />
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://zoelland.github.io/assets/images/baby10.jpg" alt="Alt Text">
+    </div>
+    <div class="toright">
+         <p>summer</p>
+         <p>été</p>
+         <p>夏天</p>       
+    </div>
+</div>
