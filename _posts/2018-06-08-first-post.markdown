@@ -19,4 +19,4 @@ This is my first post on my gitpage, haven't decide what to do with this blog ye
 
 But I got plenty of time this summer XD
 
-![Markdown Image][https://zoelland.github.io/assets/images/baby10.jpg]
+![baby10 Image][baby10.jpg]
