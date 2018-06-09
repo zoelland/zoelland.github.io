@@ -14,12 +14,11 @@ layout: page
 <ul class="skill-list">
 	<li>Python</li>
 	<li>R</li>
-	<li>Java</li>
 	<li>MySQL</li>
 	<li>Scala</li>
 	<li>Spark</li>
 	<li>Git</li>
-	<li>JAVA</li>
+	<li>Java</li>
 	<li>HTML</li>
 </ul>
 
