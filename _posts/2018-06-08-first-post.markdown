@@ -19,4 +19,6 @@ This is my first post on my gitpage, haven't decide what to do with this blog ye
 
 But I got plenty of time this summer XD
 
-![baby10 Image](baby10.jpg)
+<img src="baby10.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
