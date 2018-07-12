@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - markdown
 - first
-star: true
+star: false
 category: blog
 author: Hao Liu
 description: First post on my gitpage
