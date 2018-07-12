@@ -1,5 +1,5 @@
 ---
-title: "Linkedin Profile Summary Formatiing Tips"
+title: "Linkedin Profile Summary Formatting Tips"
 layout: post
 date: 2018-07-12 12:10
 image: /assets/images/markdown.jpg
