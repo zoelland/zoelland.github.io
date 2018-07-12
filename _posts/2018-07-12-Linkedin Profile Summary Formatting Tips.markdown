@@ -8,7 +8,7 @@ tag:
 - Linkedin
 - Formatting
 - Bullet points
-star: true
+star: false
 category: blog
 author: Hao Liu
 description: Linkedin formatting tips
