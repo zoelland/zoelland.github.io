@@ -1,24 +1,25 @@
 ---
-title: "First Post"
+title: "Linkedin Profile Summary Formatiing Tips"
 layout: post
-date: 2018-06-08 22:44
+date: 2018-07-12 12:10
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- first
+- Linkedin
+- Formatting
+- Bullet points
 star: true
 category: blog
 author: Hao Liu
-description: First post on my gitpage
+description: Linkedin formatting tips
 ---
 
 
-For Linkedin Summary,
+A good Linkedin summary helps attract potential networks in very short time, here's some hands-on tips for having a clean and well orgnized profile summary:
 
-The best way is to write and sort everything well in a formatted text editor such as Office Word.
+The best way is to write and get everything well sorted in a formatted text editor such as Office Word. The most common way is one line for a subject, then copy all the text to Lindein.
 
-Then change bullet points by copy and paste.
+Last, add bullets by simple copy and paste.
 
 
 ★ ✪ ✯ ✰
@@ -30,3 +31,5 @@ Then change bullet points by copy and paste.
 ✆ ☎ ☏
 
 ✔ ✘ ☐ ☑ ☒
+
+More bullets see [linkedin Makeover](https://www.linkedin-makeover.com/tools/symbols/)
