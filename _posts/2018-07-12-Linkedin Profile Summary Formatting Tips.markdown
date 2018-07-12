@@ -17,7 +17,7 @@ description: Linkedin formatting tips
 
 A good Linkedin summary helps attract potential networks in very short time, here's some hands-on tips for having a clean and well orgnized profile summary:
 
-The best way is to write and get everything well sorted in a formatted text editor such as Office Word. The most common way is one line for a subject, then copy all the text to Lindein.
+The best way is to write and get everything well sorted in a formatted text editor such as Office Word. The most common way is one line for one subject, then copy all the text to Linkedin.
 
 Last, add bullets by simple copy and paste.
 
